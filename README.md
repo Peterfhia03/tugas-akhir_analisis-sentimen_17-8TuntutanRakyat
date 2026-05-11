@@ -9,7 +9,7 @@ Aplikasi terdiri dari:
 * **Frontend** → antarmuka pengguna
 * **Backend** → API & pemrosesan model untuk klasifikasi sentimen
 
----
+
 ## 🧱 Struktur Project
 
 ```
@@ -18,7 +18,6 @@ Aplikasi terdiri dari:
 ├── README.md
 ```
 
----
 
 ## ⚙️ Teknologi yang Digunakan
 
@@ -26,7 +25,6 @@ Aplikasi terdiri dari:
 * Backend: FastAPI (Python)
 * Machine Learning: PyTorch / IndoBERT / BiLSTM
 
----
 
 ## 📊 Fitur Utama
 
@@ -36,7 +34,6 @@ Aplikasi terdiri dari:
 * Antarmuka user-friendly
 * Tampilan hasil prediksi single teks & batch
 
----
 
 ## 👨‍💻 Author
 
