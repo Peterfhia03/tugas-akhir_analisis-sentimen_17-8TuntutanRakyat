@@ -11,7 +11,6 @@ Aplikasi terdiri dari:
 
 
 ## 🧱 Struktur Project
-
 ```
 ├── backend/
 ├── frontend/
@@ -20,14 +19,12 @@ Aplikasi terdiri dari:
 
 
 ## ⚙️ Teknologi yang Digunakan
-
 * Frontend: React / Next.js
 * Backend: FastAPI (Python)
 * Machine Learning: PyTorch / IndoBERT / BiLSTM
 
 
 ## 📊 Fitur Utama
-
 * Analisis sentimen teks (positif, negatif, netral)
 * Integrasi model Deep Learning
 * Preprocessing Otomatis
@@ -36,12 +33,9 @@ Aplikasi terdiri dari:
 
 
 ## 👨‍💻 Author
-
 * Nama: Peter, Albert, Devit
 * Institusi: Universitas Mikroskil
 
----
 
 ## 📄 Lisensi
-
 Project ini dibuat untuk keperluan akademik (Tugas Akhir).
