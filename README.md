@@ -23,54 +23,8 @@ Aplikasi terdiri dari:
 ## ⚙️ Teknologi yang Digunakan
 
 * Frontend: React / Next.js
-* Backend: Node.js / Express
+* Backend: FastAPI (Python)
 * Machine Learning: PyTorch / IndoBERT / BiLSTM
-
----
-
-## 🚀 Cara Menjalankan Project
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
-```
-
----
-
-### 2. Setup Backend
-
-```bash
-cd backend
-npm install
-npm run start
-```
-
----
-
-### 3. Setup Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 🤖 Model AI
-
-Model tidak disertakan dalam repository karena ukuran file besar.
-
-Silakan download melalui link berikut:
-👉 [Download Model](https://link-model-kamu)
-
-Letakkan file model di folder:
-
-```
-backend/models/
-```
 
 ---
 
@@ -81,12 +35,6 @@ backend/models/
 * Preprocessing Otomatis
 * Antarmuka user-friendly
 * Tampilan hasil prediksi single teks & batch
-
----
-
-## 📸 Screenshot (Opsional)
-
-Tambahkan screenshot aplikasi di sini untuk memperjelas tampilan UI.
 
 ---
 
